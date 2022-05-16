@@ -1,0 +1,358 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Roboto:400,700");
+
+.akar-iconsinstagram-fill {
+  align-items: flex-start;
+  display: flex;
+  height: 35px;
+  margin-left: 124px;
+  margin-top: 2px;
+  padding: 1.5px 1.4px;
+  width: 34px;
+}
+
+.group {
+  height: 32px;
+  width: 31px;
+}
+
+.akar-iconsinstagram-fill.akar-iconslinkedin-fill {
+  margin-left: 54px;
+}
+
+.footer {
+  align-items: flex-start;
+  display: flex;
+  height: 638px;
+  min-width: 1474px;
+}
+
+.overlap-group {
+  align-items: flex-start;
+  background-color: var(--eminence);
+  display: flex;
+  flex-direction: column;
+  min-height: 638px;
+  padding: 15px 64px;
+  width: 1440px;
+}
+
+.flex-row {
+  align-items: center;
+  display: flex;
+  height: 63px;
+  min-width: 1119px;
+  position: relative;
+}
+
+.title {
+  letter-spacing: 0;
+  min-height: 63px;
+  width: 687px;
+}
+
+.akar-iconsyoutube-fill {
+  align-items: flex-end;
+  display: flex;
+  height: 35px;
+  margin-left: 63px;
+  margin-top: 4px;
+  overflow: hidden;
+  padding: 5.8px 0;
+  width: 34px;
+}
+
+.group-1 {
+  background-image: url(group-3.png);
+  background-size: 100% 100%;
+  height: 23px;
+  width: 34px;
+}
+
+.akar-iconsfacebook-fill {
+  background-image: url(group-4.png);
+  background-size: 100% 100%;
+  height: 35px;
+  margin-left: 55px;
+  margin-top: 4px;
+  width: 34px;
+}
+
+.flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 29px;
+  margin-top: 93px;
+  min-width: 1123px;
+}
+
+.contact-us {
+  letter-spacing: 0;
+  min-height: 27px;
+  width: 163px;
+}
+
+.people {
+  letter-spacing: 0;
+  margin-left: 0px;
+  min-height: 27px;
+  width: 101px;
+}
+
+.programs {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-left: 99px;
+  min-height: 27px;
+  width: 150px;
+}
+
+.projects {
+  letter-spacing: 0;
+  margin-left: 79px;
+  min-height: 27px;
+  width: 135px;
+}
+
+.flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 23px;
+  margin-top: 21px;
+  min-width: 1153px;
+}
+
+.h-a-blaze-street-s {
+  letter-spacing: 0;
+  min-height: 21px;
+  width: 437px;
+}
+
+.teams {
+  letter-spacing: 0;
+  margin-left: 122px;
+  min-height: 22px;
+  width: 88px;
+}
+
+.projects-1 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 112px;
+  min-height: 21px;
+  width: 104px;
+}
+
+.future-projetcs {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 121px;
+  min-height: 21px;
+  width: 169px;
+}
+
+.flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 33px;
+  margin-top: 14px;
+  min-width: 1153px;
+}
+
+.phone {
+  letter-spacing: 0;
+  min-height: 21px;
+  width: 233px;
+}
+
+.developers {
+  letter-spacing: 0;
+  margin-left: 328px;
+  min-height: 23px;
+  width: 126px;
+}
+
+.moodle {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 72px;
+  min-height: 24px;
+  width: 104px;
+}
+
+.future-projetcs-1 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-bottom: 1px;
+  margin-left: 121px;
+  min-height: 21px;
+  width: 169px;
+}
+
+.flex-row-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 34px;
+  margin-top: 4px;
+  min-width: 1153px;
+}
+
+.caribbeancodingacademygmailcom {
+  align-self: flex-start;
+  letter-spacing: 0;
+  min-height: 21px;
+  width: 426px;
+}
+
+.services {
+  letter-spacing: 0;
+  margin-left: 333px;
+  min-height: 24px;
+  width: 104px;
+}
+
+.future-projetcs-2 {
+  letter-spacing: 0;
+  margin-left: 121px;
+  min-height: 21px;
+  width: 169px;
+}
+
+.place {
+  letter-spacing: 0;
+  margin-top: 8px;
+  min-height: 23px;
+  width: 108px;
+}
+
+.copyright {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  margin-left: 1px;
+  margin-top: 229px;
+  min-width: 763px;
+}
+
+.copyright-1 {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 107px;
+}
+
+.mdialpha-c-circle-outline {
+  height: 24px;
+  margin-left: 10px;
+  width: 25px;
+}
+
+.address {
+  letter-spacing: 0;
+  margin-left: 10px;
+  min-height: 28px;
+  width: 607px;
+}
+:root {
+  --black: rgba(0, 0, 0, 1);
+  --eminence: rgba(112, 51, 122, 1);
+  --white: rgba(255, 255, 255, 1);
+
+  --font-size-s: 16px;
+  --font-size-m: 24px;
+  --font-size-l: 30px;
+  --font-size-xl: 36px;
+  --font-size-xxl: 48px;
+  --font-size-xxxl: 64px;
+
+  --font-family-roboto: "Roboto";
+  --font-family-roboto_slab: "Roboto Slab";
+}
+
+/* Classes */
+
+.roboto-bold-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  font-style: normal;
+}
+
+.robotoslab-bold-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-roboto_slab);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+
+.robotoslab-bold-black-48px {
+  color: var(--black);
+  font-family: var(--font-family-roboto_slab);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+
+.robotoslab-bold-white-48px {
+  color: var(--white);
+  font-family: var(--font-family-roboto_slab);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+
+.roboto-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  font-style: normal;
+}
+
+.robotoslab-bold-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-roboto_slab);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  font-style: normal;
+}
+
+.robotoslab-bold-white-64px {
+  color: var(--white);
+  font-family: var(--font-family-roboto_slab);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+
+.roboto-bold-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  font-style: normal;
+}
+
+.robotoslab-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-roboto_slab);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}

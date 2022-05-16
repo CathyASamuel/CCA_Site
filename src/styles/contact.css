@@ -1,0 +1,218 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Roboto:400,700");
+
+.header {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1442px;
+}
+
+.overlap-group1 {
+  background-color: var(--eminence);
+  height: 727px;
+  position: relative;
+  width: 1440px;
+}
+
+.overlap-group2 {
+  height: 585px;
+  left: 184px;
+  position: absolute;
+  top: 13px;
+  width: 1124px;
+}
+
+.nav-bar {
+  align-items: center;
+  display: flex;
+  height: 120px;
+  left: 0;
+  min-width: 1067px;
+  position: absolute;
+  top: 0;
+}
+
+.cca-logo-1-1 {
+  height: 120px;
+  object-fit: cover;
+  width: 121px;
+}
+
+.place {
+  letter-spacing: 0;
+  margin-bottom: 35px;
+  margin-left: 133px;
+  min-height: 33px;
+  width: 85px;
+}
+
+.projects {
+  letter-spacing: 0;
+  margin-bottom: 46px;
+  margin-left: 27px;
+  min-height: 22px;
+  width: 94px;
+}
+
+.team {
+  letter-spacing: 0;
+  margin-bottom: 46px;
+  margin-left: 18px;
+  min-height: 22px;
+  width: 85px;
+}
+
+.overlap-group {
+  height: 22px;
+  margin-bottom: 46px;
+  margin-left: 27px;
+  position: relative;
+  width: 208px;
+}
+
+.service {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 125px;
+}
+
+.moodle {
+  left: 112px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.place-1 {
+  letter-spacing: 0;
+  margin-bottom: 46px;
+  margin-left: 16px;
+  min-height: 22px;
+  width: 96px;
+}
+
+.developers {
+  letter-spacing: 0;
+  margin-bottom: 46px;
+  margin-left: 16px;
+  min-height: 22px;
+  width: 127px;
+}
+
+.undraw_contact_us_re_4qqt-1 {
+  height: 469px;
+  left: 297px;
+  position: absolute;
+  top: 116px;
+  width: 827px;
+}
+
+.header-team-text {
+  left: 172px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 337px;
+  width: 309px;
+}
+
+
+:root {
+  --black: 
+rgba(0, 0, 0, 1);
+  --eminence: 
+rgba(112, 51, 122, 1);
+  --white: 
+rgba(255, 255, 255, 1);
+
+  --font-size-s: 16px;
+  --font-size-m: 24px;
+  --font-size-l: 30px;
+  --font-size-xl: 36px;
+  --font-size-xxl: 48px;
+  --font-size-xxxl: 64px;
+
+  --font-family-roboto: "Roboto";
+  --font-family-roboto_slab: "Roboto Slab";
+}
+
+
+
+.roboto-bold-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  font-style: normal;
+}
+.robotoslab-bold-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-roboto_slab);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+.robotoslab-bold-black-48px {
+  color: var(--black);
+  font-family: var(--font-family-roboto_slab);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.robotoslab-bold-white-48px {
+  color: var(--white);
+  font-family: var(--font-family-roboto_slab);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  font-style: normal;
+}
+.robotoslab-bold-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-roboto_slab);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  font-style: normal;
+}
+.robotoslab-bold-white-64px {
+  color: var(--white);
+  font-family: var(--font-family-roboto_slab);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-bold-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  font-style: normal;
+}
+.robotoslab-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-roboto_slab);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
